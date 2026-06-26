@@ -1,0 +1,10 @@
+Neethika
+
+Email: neethika@gmail.com
+
+Phone: 9876678890
+
+Skills:
+Python
+Java
+SQL
